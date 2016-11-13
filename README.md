@@ -9,4 +9,4 @@ In this project, you will be able to find the following resources:
   + Html file with specs: This file, generated with sketch measure plugin, provide all the specs needed to develop the application.
   + Previews: In the preview folder you can find an image of each screen of the application.
   
-You can also discover the interaction of the application, in the following link: [I'm an inline-style link](https://marvelapp.com/49fc269)
+You can also discover the interaction of the application, in the following link: [Design with interaction](https://marvelapp.com/49fc269)
